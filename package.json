@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "co-body": "6.1.0",
-    "config": "3.3.6",
+    "config": "3.3.9",
     "koa": "2.13.1",
     "koa-ejs": "4.3.0",
     "koa-locales": "1.12.0",
@@ -30,17 +30,17 @@
     "koa-static": "5.0.0",
     "mongodb": "3.6.6",
     "nodemailer": "6.6.0",
-    "openpgp": "4.5.5",
-    "winston": "3.3.3",
+    "openpgp": "5.0.0",
+    "winston": "3.3.4",
     "winston-papertrail": "1.0.5"
   },
   "devDependencies": {
     "bootstrap": "^3.4.1",
-    "chai": "^4.3.4",
+    "chai": "^4.3.10",
     "chai-as-promised": "^7.1.1",
-    "eslint": "^7.26.0",
+    "eslint": "^8.44.0",
     "jquery": "^3.6.0",
-    "mocha": "^8.4.0",
+    "mocha": "^9.1.2",
     "sinon": "^10.0.0",
     "supertest": "^6.1.3"
   }
